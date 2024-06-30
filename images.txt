@@ -8,7 +8,5 @@
 
 # 我需要拉取的镜像
 
-xkloveme/xk-node:16
-xkloveme/xk-node:18
-xkloveme/xk-node:20
-nginx:stable-alpine
+snowdreamtech/frpc
+snowdreamtech/frpc:0.58.1
