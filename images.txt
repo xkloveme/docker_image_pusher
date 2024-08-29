@@ -11,3 +11,4 @@
 # snowdreamtech/frpc
 # snowdreamtech/frpc:0.58.1
 neosmemo/memos
+xiaoyaliu/alist
