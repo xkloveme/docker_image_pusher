@@ -11,6 +11,8 @@ xkloveme/xk-node:16
 xkloveme/xk-node:18
 xkloveme/xk-node:20
 xkloveme/xk-node:latest
+xkloveme/xk-nginx:latest
+
 
 # 我需要拉取的镜像
 
