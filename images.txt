@@ -4,7 +4,6 @@
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-
 # 我自己打包的镜像
 
 xkloveme/xk-node:16
