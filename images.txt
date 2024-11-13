@@ -1,6 +1,14 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# --platform=linux/arm64 xiaoyaliu/alist
+
+xkloveme/xk-node:16-alpine
+xkloveme/xk-node:18-alpine
+xkloveme/xk-node:20-alpine
+xkloveme/xk-node:stable-alpine
+xkloveme/xk-node
+xkloveme/xk-nginx:stable-alpine
+xkloveme/xk-nginx
