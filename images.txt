@@ -12,3 +12,6 @@ xkloveme/xk-node:stable-alpine
 xkloveme/xk-node
 xkloveme/xk-nginx:stable-alpine
 xkloveme/xk-nginx
+
+
+stilleshan/frpc
