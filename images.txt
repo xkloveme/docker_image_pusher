@@ -15,3 +15,4 @@ xkloveme/xk-nginx
 
 
 python:3.9-alpine
+--platform=linux/arm64 python:3.9-alpine
