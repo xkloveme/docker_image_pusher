@@ -14,4 +14,4 @@ xkloveme/xk-nginx:stable-alpine
 xkloveme/xk-nginx
 
 
-3.9-alpine
+python:3.9-alpine
