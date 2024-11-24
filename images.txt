@@ -14,4 +14,4 @@ xkloveme/xk-nginx:stable-alpine
 xkloveme/xk-nginx
 
 
-stilleshan/frpc
+3.9-alpine
