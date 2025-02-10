@@ -19,3 +19,4 @@
 #--platform=linux/arm64 python:3.9-alpine
 
 openjdk:11
+--platform=linux/arm64 openjdk:11
