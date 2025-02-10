@@ -13,7 +13,9 @@
 #xkloveme/xk-nginx:stable-alpine
 #xkloveme/xk-nginx
 
-docker/dockerfile:latest
---platform=linux/arm64 docker/dockerfile:latest
+#docker/dockerfile:latest
+#--platform=linux/arm64 docker/dockerfile:latest
 #python:3.9-alpine
 #--platform=linux/arm64 python:3.9-alpine
+
+openjdk:11
