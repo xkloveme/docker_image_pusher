@@ -11,8 +11,8 @@
 #xkloveme/xk-node:stable-alpine
 #xkloveme/xk-node
 #xkloveme/xk-nginx:stable-alpine
-xkloveme/xk-nginx
---platform=linux/arm64 xkloveme/xk-nginx
+--platform=linux/amd64 xkloveme/xk-nginx:latest
+--platform=linux/arm64 xkloveme/xk-nginx:latest
 #docker/dockerfile:latest
 #--platform=linux/arm64 docker/dockerfile:latest
 #python:3.9-alpine
