@@ -11,12 +11,12 @@
 #xkloveme/xk-node:stable-alpine
 #xkloveme/xk-node
 #xkloveme/xk-nginx:stable-alpine
-#xkloveme/xk-nginx
-
+xkloveme/xk-nginx
+--platform=linux/arm64 xkloveme/xk-nginx
 #docker/dockerfile:latest
 #--platform=linux/arm64 docker/dockerfile:latest
 #python:3.9-alpine
 #--platform=linux/arm64 python:3.9-alpine
 
-openjdk:11
---platform=linux/arm64 openjdk:11
+#openjdk:11
+#--platform=linux/arm64 openjdk:11
